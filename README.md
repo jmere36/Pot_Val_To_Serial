@@ -12,7 +12,7 @@ If there's any issues or questions please contact my email at: jmere36@icloud.co
 
 
 # Download
-github.com/jmere36/Pot_Val_To_Serial
+https://www.github.com/jmere36/Pot_Val_To_Serial
 /releases
 
 
